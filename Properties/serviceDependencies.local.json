@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "connectionInfo": "App registration: NBHX-DR, Tenant: Tener Technologies, L.L.C. (tenertech.com - Microsoft Entra ID)",
+      "type": "identityapp.default"
+    }
+  }
+}
